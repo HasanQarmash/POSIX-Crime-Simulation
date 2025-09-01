@@ -322,7 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Author**: Hasan Qarmash
-- **Email**: your.email@example.com
+- **Email**: qarmash.hasan@gmail.com
 - **Project Link**: [https://github.com/HasanQarmash/POSIX-Crime-Simulation](https://github.com/HasanQarmash/POSIX-Crime-Simulation)
 
 ---
